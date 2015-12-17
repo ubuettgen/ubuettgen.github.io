@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Büttgen IT Consulting</title>
+    <link>http://www.buettgen.org/consulting/</link>
+    <description>Recent content on Büttgen IT Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.buettgen.org/consulting/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://www.buettgen.org/consulting/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.buettgen.org/consulting/test/</guid>
+      <description>&lt;p&gt;Um den Mitarbeitern eines großen Projektteams den Zugang zu den Daten zu einigen legacy Datenbanken zu vereinfachen sollte eine Webanwendung erstellt werden um die verwendeten SQL-Skripte abzulösen und direkten DB Zugriffe zu vermeiden.
+Aufgaben:
+* Anforderungsaufnahme bei der Fachabteilung
+* Erstellung div. Prototypen u.a. mit Vaadin und dem Play Framework inkl. GUI Entwurf mit HTML/CSS/Javascript
+* Entwurf und Realisierung eines produktiven Systems mit Vaadin&lt;br /&gt;
+* DB Zugriffschicht mit Hibernate (wo möglich, sonst JDBC direkt)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
